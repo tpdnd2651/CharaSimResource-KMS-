@@ -1,0 +1,2 @@
+# CharaSimResource-KMS-
+CharaSimResource [KMS]
